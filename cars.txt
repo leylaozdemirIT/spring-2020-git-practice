@@ -3,3 +3,5 @@ Mazda
 Honda
 Mercedes
 Audi
+KIA
+Tesla
