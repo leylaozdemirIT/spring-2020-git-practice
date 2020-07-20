@@ -1,7 +1,6 @@
 Toyota
 Mazda
 Honda
-<<<<<<< HEAD
 Mercedes
 Audi
 KIA
@@ -13,7 +12,6 @@ Hyundai
 Nissan
 Lexus
 Ferrari
-=======
 BMW
 Jaguar
 Bentley
