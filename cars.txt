@@ -12,6 +12,5 @@ Hyundai
 Nissan
 Lexus
 Ferrari
-Jeep
 
-***
+
