@@ -12,8 +12,5 @@ Hyundai
 Nissan
 Lexus
 Ferrari
-BMW
-Jaguar
-Bentley
 Jeep
 
